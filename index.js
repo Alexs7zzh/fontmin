@@ -150,7 +150,6 @@ Fontmin.plugins = [
     'ttf2svg',
     'css',
     'svg2ttf',
-    'svgs2ttf',
     'otf2ttf'
 ];
 
