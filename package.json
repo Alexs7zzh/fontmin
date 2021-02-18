@@ -49,7 +49,7 @@
     "is-ttf": "^0.2.2",
     "lodash": "^4.17.20",
     "meow": "^9.0.0",
-    "pako": "^2.0.3",
+    "pako": "1.0.11",
     "replace-ext": "2.0.0",
     "stream-combiner": "^0.2.2",
     "through2": "4.0.2",
